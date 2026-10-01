@@ -1,0 +1,19 @@
+img{
+  max-width:  100%; 
+  height: auto;
+  object-fit: cover; /* evita a distorção (mantém a proporção)*/
+}
+ 
+/*
+Site parana otimização de imagens, excelente para web
+      https://tinypng.com
+
+      - Reduz o tamanho do arquivo
+      - Mantém boa qualidade visual
+      - suporta : PNG, JPG e WebP
+
+      Boas práticas 
+      - Usar imagens menores (ex : 800px em vez de 4000px)
+      - Comprimir imagem antes (Tynypng,etc )
+      - Usar formatos modernos (.webp)
+*/
